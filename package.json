@@ -1,0 +1,15 @@
+{
+  "name": "json-server",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/json-server": "^0.14.8",
+    "json-server": "0.17.4"
+  }
+}
