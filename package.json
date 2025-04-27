@@ -4,6 +4,6 @@
     "start": "mkdir public && json-server db.json --port 3000"
   },
   "dependencies": {
-    "json-server": "0.17.4"
+    "json-server": "^1.0.0-beta.3"
   }
 }
